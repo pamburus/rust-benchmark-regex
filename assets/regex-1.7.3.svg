@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg" viewBox="295 119 1000 860" height="860" width="1000" xml:space="preserve" id="svg2" version="1.1" style="zoom: 1;">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6">
+    <clipPath id="clipPath20" clipPathUnits="userSpaceOnUse">
+      <path id="path18" d="M 216.18,95.82 H 974.82 V 752 H 216.18 Z"></path>
+    </clipPath>
+    <clipPath id="clipPath30" clipPathUnits="userSpaceOnUse">
+      <path id="path28" d="M 216.18,95.82 H 974.82 V 752 H 216.18 Z"></path>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.3333333,0,0,-1.3333333,0,1122.6667)" id="g10">
+    <g id="g12"></g>
+    <g id="g14">
+      <g clip-path="url(#clipPath20)" id="g16"></g>
+    </g>
+    <g id="g24">
+      <g clip-path="url(#clipPath30)" id="g26">
+        <path id="path32" style="fill:#292c33;fill-opacity:0.01;fill-rule:nonzero;stroke:none" d="M 221.63,752 H 969.37 V 111.08 H 221.63 Z"></path>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g34">
+          <text id="text38" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,11)">
+            <tspan id="tspan36" y="0" x="0 7.2252002">╭─</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g40"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g42">
+          <text id="text46" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#00afff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(26.67383,11)">
+            <tspan id="tspan44" y="0" x="0">~</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g48">
+          <text id="text52" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#0087af;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(33.89844,11)">
+            <tspan id="tspan50" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504">/src/rust/benchmarks/</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g54">
+          <text id="text58" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#00afff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(185.6152,11)">
+            <tspan id="tspan56" y="0" x="0 7.2252002 14.4504 21.6756 28.900801">regex</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g60"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g62">
+          <text id="text66" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5fd700;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(228.9629,11)">
+            <tspan id="tspan64" y="0" x="0 7.2252002 14.4504 21.6756 28.900801">main </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g68">
+          <text id="text72" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#d7af00;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(265.0859,11)">
+            <tspan id="tspan70" y="0" x="0 7.2252002 14.4504">!3 </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g74">
+          <text id="text78" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#00afff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(286.7598,11)">
+            <tspan id="tspan76" y="0" x="0 7.2252002">?2</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g80"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g82">
+          <text id="text86" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(308.4336,11)">
+            <tspan id="tspan84" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318">··········································</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g88"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g90">
+          <text id="text94" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#87875f;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(619.0918,11)">
+            <tspan id="tspan92" y="0" x="0 7.2252002 14.4504">50s</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g96">
+          <text id="text100" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5f8787;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(647.9908,11)">
+            <tspan id="tspan98" y="0" x="0 7.2252002 14.4504 21.6756 28.900801">12:37</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g102">
+          <text id="text106" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5f8787;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,25)">
+            <tspan id="tspan104" y="0" x="0 7.2252002 14.4504">:58</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g108"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g110">
+          <text id="text114" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,39)">
+            <tspan id="tspan112" y="0" x="0 7.2252002">╰─</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g116"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g118">
+          <text id="text122" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5fd700;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(26.67383,39)">
+            <tspan id="tspan120" y="0" x="0">❯</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g124">
+          <text id="text128" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(41.12364,39)">
+            <tspan id="tspan126" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504">cargo bench --locked </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g130">
+          <text id="text134" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(33.9008,53)">
+            <tspan id="tspan132" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">Finished</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g136">
+          <text id="text140" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(98.92051,53)">
+            <tspan id="tspan138" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721">bench [optimized] target(s) in 0.03s </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g142">
+          <text id="text146" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(41.126,67)">
+            <tspan id="tspan144" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512">Running</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g148">
+          <text id="text152" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(98.92051,67)">
+            <tspan id="tspan150" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919 339.58441 346.8096 354.03479 361.26001 368.4852 375.71039 382.93561 390.1608 397.38599 404.61121 411.8364 419.06161 426.2868 433.51199 440.73721 447.9624 455.18759 462.41281 469.638 476.86319">unittests src/main.rs (target/release/deps/regex-869cc282ebea99a8) </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g154"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g156">
+          <text id="text160" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,95)">
+            <tspan id="tspan158" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378">running 0 tests </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g162"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g164">
+          <text id="text168" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,123)">
+            <tspan id="tspan166" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024">test result: </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g170">
+          <text id="text174" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(98.91992,123)">
+            <tspan id="tspan172" y="0" x="0 7.2252002">ok</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g176">
+          <text id="text180" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(113.3691,123)">
+            <tspan id="tspan178" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919 339.58441 346.8096 354.03479 361.26001 368.4852 375.71039 382.93561 390.1608 397.38599 404.61121 411.8364 419.06161 426.2868 433.51199 440.73721 447.9624 455.18759 462.41281 469.638 476.86319 484.08841 491.3136 498.53879 505.76401 512.9892 520.21442 527.43958 534.66479 541.89001 549.11517 556.34039 563.56561">. 0 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g182"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g184">
+          <text id="text188" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(41.126,151)">
+            <tspan id="tspan186" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512">Running</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g190">
+          <text id="text194" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(98.92051,151)">
+            <tspan id="tspan192" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919 339.58441 346.8096 354.03479 361.26001 368.4852 375.71039 382.93561 390.1608 397.38599 404.61121 411.8364 419.06161 426.2868 433.51199 440.73721">benches/regex.rs (target/release/deps/regex-13fac66615768c35) </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g196">
+          <text id="text200" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,165)">
+            <tspan id="tspan198" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318">Gnuplot not found, using plotters backend </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g202">
+          <text id="text206" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,179)">
+            <tspan id="tspan204" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">regex/b1</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g208">
+          <text id="text212" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.40008,179)">
+            <tspan id="tspan210" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 57.801601">time: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g214">
+          <text id="text218" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,179)">
+            <tspan id="tspan216" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.9331 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g220"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g222">
+          <text id="text226" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#b8bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(315.6582,179)">
+            <tspan id="tspan224" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.9363 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g228"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g230">
+          <text id="text234" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(387.9043,179)">
+            <tspan id="tspan232" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.9395 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g236">
+          <text id="text240" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(452.9258,179)">
+            <tspan id="tspan238" y="0" x="0 7.2252002">] </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g242">
+          <text id="text246" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,193)">
+            <tspan id="tspan244" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">change: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g248">
+          <text id="text252" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,193)">
+            <tspan id="tspan250" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">-0.2102%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g254">
+          <text id="text258" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(308.4342,193)">
+            <tspan id="tspan256" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">-0.0152% </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g260">
+          <text id="text264" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(373.4551,193)">
+            <tspan id="tspan262" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">+0.1701%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g266">
+          <text id="text270" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(431.252,193)">
+            <tspan id="tspan268" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">] (p = 0.88 &gt; 0.05) </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g272">
+          <text id="text276" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,207)">
+            <tspan id="tspan274" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568">No change in performance detected. </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g278">
+          <text id="text282" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#c99c6e;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,221)">
+            <tspan id="tspan280" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919">Found 4 outliers among 100 measurements (4.00%)</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g284"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g286">
+          <text id="text290" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,235)">
+            <tspan id="tspan288" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">1 (1.00%) high mild </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g292">
+          <text id="text296" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,249)">
+            <tspan id="tspan294" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292">3 (3.00%) high severe </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g298">
+          <text id="text302" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,263)">
+            <tspan id="tspan300" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">regex/b2</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g304">
+          <text id="text308" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.40008,263)">
+            <tspan id="tspan306" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 57.801601">time: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g310">
+          <text id="text314" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,263)">
+            <tspan id="tspan312" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.9395 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g316"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g318">
+          <text id="text322" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#b8bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(315.6582,263)">
+            <tspan id="tspan320" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.9457 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g324"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g326">
+          <text id="text330" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(387.9043,263)">
+            <tspan id="tspan328" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.9534 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g332">
+          <text id="text336" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(452.9258,263)">
+            <tspan id="tspan334" y="0" x="0 7.2252002">] </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g338">
+          <text id="text342" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,277)">
+            <tspan id="tspan340" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">change: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g344">
+          <text id="text348" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,277)">
+            <tspan id="tspan346" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">-0.3419%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g350">
+          <text id="text354" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(308.4342,277)">
+            <tspan id="tspan352" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">-0.1099% </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g356">
+          <text id="text360" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(373.4551,277)">
+            <tspan id="tspan358" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">+0.0925%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g362">
+          <text id="text366" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(431.252,277)">
+            <tspan id="tspan364" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">] (p = 0.35 &gt; 0.05) </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g368">
+          <text id="text372" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,291)">
+            <tspan id="tspan370" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568">No change in performance detected. </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g374">
+          <text id="text378" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#c99c6e;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,305)">
+            <tspan id="tspan376" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919 339.58441 346.8096">Found 12 outliers among 100 measurements (12.00%)</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g380"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g382">
+          <text id="text386" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,319)">
+            <tspan id="tspan384" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504">1 (1.00%) low severe </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g388">
+          <text id="text392" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,333)">
+            <tspan id="tspan390" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536">2 (2.00%) low mild </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g394">
+          <text id="text398" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,347)">
+            <tspan id="tspan396" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">4 (4.00%) high mild </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g400">
+          <text id="text404" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,361)">
+            <tspan id="tspan402" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292">5 (5.00%) high severe </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g406">
+          <text id="text410" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,375)">
+            <tspan id="tspan408" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">regex/b3</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g412">
+          <text id="text416" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.40008,375)">
+            <tspan id="tspan414" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 57.801601">time: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g418">
+          <text id="text422" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,375)">
+            <tspan id="tspan420" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.8538 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g424"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g426">
+          <text id="text430" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#b8bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(315.6582,375)">
+            <tspan id="tspan428" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.8618 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g432"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g434">
+          <text id="text438" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(387.9043,375)">
+            <tspan id="tspan436" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.8709 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g440">
+          <text id="text444" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(452.9258,375)">
+            <tspan id="tspan442" y="0" x="0 7.2252002">] </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g446">
+          <text id="text450" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,389)">
+            <tspan id="tspan448" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">change: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g452">
+          <text id="text456" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,389)">
+            <tspan id="tspan454" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">-0.1514%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g458">
+          <text id="text462" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(308.4342,389)">
+            <tspan id="tspan460" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">+0.0443% </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g464">
+          <text id="text468" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(373.4551,389)">
+            <tspan id="tspan466" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">+0.2417%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g470">
+          <text id="text474" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(431.252,389)">
+            <tspan id="tspan472" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">] (p = 0.66 &gt; 0.05) </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g476">
+          <text id="text480" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,403)">
+            <tspan id="tspan478" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568">No change in performance detected. </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g482">
+          <text id="text486" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#c99c6e;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,417)">
+            <tspan id="tspan484" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919 339.58441 346.8096">Found 12 outliers among 100 measurements (12.00%)</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g488"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g490">
+          <text id="text494" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,431)">
+            <tspan id="tspan492" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536">1 (1.00%) low mild </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g496">
+          <text id="text500" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,445)">
+            <tspan id="tspan498" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">4 (4.00%) high mild </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g502">
+          <text id="text506" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,459)">
+            <tspan id="tspan504" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292">7 (7.00%) high severe </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g508">
+          <text id="text512" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#a1c281;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,473)">
+            <tspan id="tspan510" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">regex/b4</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g514">
+          <text id="text518" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.40008,473)">
+            <tspan id="tspan516" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 57.801601">time: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g520">
+          <text id="text524" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,473)">
+            <tspan id="tspan522" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.8617 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g526"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g528">
+          <text id="text532" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#b8bfcd;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(315.6582,473)">
+            <tspan id="tspan530" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.8734 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g534"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g536">
+          <text id="text540" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(387.9043,473)">
+            <tspan id="tspan538" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">5.8865 ns</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g542">
+          <text id="text546" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(452.9258,473)">
+            <tspan id="tspan544" y="0" x="0 7.2252002">] </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g548">
+          <text id="text552" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,487)">
+            <tspan id="tspan550" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">change: [</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g554">
+          <text id="text558" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(243.4121,487)">
+            <tspan id="tspan556" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">+0.2874%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g560">
+          <text id="text564" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(308.4342,487)">
+            <tspan id="tspan562" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601">+0.5354% </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g566">
+          <text id="text570" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6a6f79;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(373.4551,487)">
+            <tspan id="tspan568" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401">+0.7674%</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g572">
+          <text id="text576" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(431.252,487)">
+            <tspan id="tspan574" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">] (p = 0.00 &lt; 0.05) </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g578">
+          <text id="text582" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(178.4048,501)">
+            <tspan id="tspan580" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756">Change within noise threshold. </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g584">
+          <text id="text588" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#c99c6e;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,515)">
+            <tspan id="tspan586" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318 303.4584 310.68359 317.90881 325.134 332.35919">Found 1 outliers among 100 measurements (1.00%)</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g590"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g592">
+          <text id="text596" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#abb2bf;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(19.4504,529)">
+            <tspan id="tspan594" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879">1 (1.00%) high mild </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g598"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g600">
+          <text id="text604" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,557)">
+            <tspan id="tspan602" y="0" x="0 7.2252002">╭─</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g606"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g608">
+          <text id="text612" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#00afff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(26.67383,557)">
+            <tspan id="tspan610" y="0" x="0">~</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g614">
+          <text id="text618" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#0087af;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(33.89844,557)">
+            <tspan id="tspan616" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504">/src/rust/benchmarks/</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g620">
+          <text id="text624" style="font-variant:normal;font-weight:bold;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Bold;writing-mode:lr-tb;fill:#00afff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(185.6152,557)">
+            <tspan id="tspan622" y="0" x="0 7.2252002 14.4504 21.6756 28.900801">regex</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g626"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g628">
+          <text id="text632" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5fd700;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(228.9629,557)">
+            <tspan id="tspan630" y="0" x="0 7.2252002 14.4504 21.6756 28.900801">main </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g634">
+          <text id="text638" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#d7af00;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(265.0859,557)">
+            <tspan id="tspan636" y="0" x="0 7.2252002 14.4504">!3 </tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g640">
+          <text id="text644" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#00afff;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(286.7598,557)">
+            <tspan id="tspan642" y="0" x="0 7.2252002">?2</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g646"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g648">
+          <text id="text652" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(308.4336,557)">
+            <tspan id="tspan650" y="0" x="0 7.2252002 14.4504 21.6756 28.900801 36.125999 43.3512 50.576401 57.801601 65.026802 72.251999 79.477203 86.7024 93.927597 101.1528 108.378 115.6032 122.8284 130.0536 137.27879 144.504 151.7292 158.95441 166.1796 173.4048 180.63 187.85519 195.0804 202.3056 209.53081 216.756 223.9812 231.20641 238.43159 245.6568 252.882 260.10721 267.3324 274.55759 281.78281 289.008 296.23318">··········································</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g654"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g656">
+          <text id="text660" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#87875f;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(619.0918,557)">
+            <tspan id="tspan658" y="0" x="0 7.2252002 14.4504">34s</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g662">
+          <text id="text666" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5f8787;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(647.9908,557)">
+            <tspan id="tspan664" y="0" x="0 7.2252002 14.4504 21.6756 28.900801">12:38</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g668">
+          <text id="text672" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5f8787;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,571)">
+            <tspan id="tspan670" y="0" x="0 7.2252002 14.4504">:41</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g674"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g676">
+          <text id="text680" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#6c6c6c;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(5,585)">
+            <tspan id="tspan678" y="0" x="0 7.2252002">╰─</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g682"></g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g684">
+          <text id="text688" style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Menlo;-inkscape-font-specification:Menlo-Regular;writing-mode:lr-tb;fill:#5fd700;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="translate(26.67383,585)">
+            <tspan id="tspan686" y="0" x="0">❯</tspan>
+          </text>
+        </g>
+        <g transform="matrix(1.09,0,0,-1.09,216.18,752)" id="g690"></g>
+      </g>
+    </g>
+  </g>
+</svg>
